@@ -14,3 +14,5 @@ As a teaching assistant for the course "Simulation Methods in Statistical Physic
 - XY: This code simulates the XY model for a two-dimensional array of spins that can rotate freely and take any value between 0 and 360 degrees. The purpose is to study the effects of continuous symmetries on phase transitions.
 
 - LR_XY: This code is an extension of the XY model where spins can interact with any number of neighbors. This allows the effects of longer-range interactions on continuous phase transitions to be studied.
+
+Since python is slow in general, C++ codes were developed for the methods to simulate bigger systems, and they can be found in the "C++ Codes" directory.
